@@ -40,7 +40,7 @@
   <mkdir dir="${basedir}/build/phpdox"/>
  </target>
 
- 
+
 
  <target name="lint">
   <apply executable="php" failonerror="true">
